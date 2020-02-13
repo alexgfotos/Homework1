@@ -7,6 +7,6 @@ For this homework I did the following:
          - Aside
       - Footer
 
-   2. Add "alt text" descriptions to each img.
+   2. Add "alt" text descriptions to each img.
 
    3. Added a title I thought succintly described what Horiseon (I keep reading it as HORSEON... horse on?) did.
